@@ -9,7 +9,8 @@ I made this because I wasn't satisfied with any of the other logging bots - none
 - Tracks edited messages
 - Retrieve logs without leaving Discord
 
-The only issue currently is that it doesn't log images. I don't need to log images for my use, but I might add it at some point.
+~~The only issue currently is that it doesn't log images. I don't need to log images for my use, but I might add it at some point.~~ It kind of logs images - it doesn't keep the file but keeps the link now. Keeping the file would use too much space for me. I don't really develop this bot unless it's broken by a discord change so don't expect anything.
+
 
 ## Setup
 - Clone this repository: `git clone https://github.com/jaffacakes6/Discord-Chat-Logger.git`.
