@@ -1,0 +1,5 @@
+{
+  "token": "your bot token",
+  "log_channel": "the id of the channel you call the bot from",
+  "prefix": "["
+}
